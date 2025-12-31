@@ -14,8 +14,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yelisei-krupin&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=444&bg_color=0,000000" alt="Stats" />
-    </td>
+<img src="https://github-readme-stats.vercel.app/api?username=yelisei-krupin&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=444&bg_color=0,000000" />    </td>
     <td width="50%">
        <p align="center">
          <img src="https://skillicons.dev/icons?i=c,assembly,linux,git,bash,docker,vim&theme=dark" />
