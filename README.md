@@ -1,4 +1,4 @@
-# 0x00 | [Ismingiz] 👋
+# 0x00 | [Yelisei] 👋
 ### Senior printf("Goodbye World\n");
 ### Systems & Low-Level Developer
 
