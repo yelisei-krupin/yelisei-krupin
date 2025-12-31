@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=219" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yelisei-krupin&theme=219" width="100%" />
     </td>
     <td width="50%" align="center">
       <br>
