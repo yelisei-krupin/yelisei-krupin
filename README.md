@@ -11,31 +11,25 @@
   <a href="#social">social</a>
 </p>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=yelisei-krupin&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=444&bg_color=0,000000" />    </td>
-    <td width="50%">
-       <p align="center">
-         <img src="https://skillicons.dev/icons?i=c,assembly,linux,git,bash,docker,vim&theme=dark" />
-         <br>
-         <b>0xDEADC0DE Experience</b><br>
-         <i>Kernel & Systems Dev</i>
-       </p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,assembly,linux,git,bash,vim&theme=dark" />
+      <br>
+      <b>Low-Level Environment</b>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <p align="center">
-        🎧 <b>9k in Apple Music</b><br>
-        Audiophile 24/7
-      </p>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
-    <td width="50%">
-      <p align="center">
-        👨‍💻 <b>C/ASM Maintainer</b><br>
-        OSS Veteran
-      </p>
+    <td width="50%" align="center">
+       <br>
+       💻 <b>Current Task:</b> Debugging Memory<br>
+       ⚡ <b>Motto:</b> 0 error(s), 0 warning(s)
     </td>
   </tr>
 </table>
