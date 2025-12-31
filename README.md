@@ -1,5 +1,5 @@
 # 0x00 | [Yelisei] 👋
-### Senior printf("Goodbye World\n");
+### Gimme gcc and a change the world!
 ### Systems & Low-Level Developer
 
 ---
